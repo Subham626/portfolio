@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Personal Portfolio Website",
+    "description": "The very website you are looking at. Built with HTML, CSS, and vanilla JavaScript to dynamically load project data from a JSON file.",
+    "images": [
+      "images/portfolio-screenshot.png",
+      "images/portfolio-code-snippet.png"
+    ]
+  },
+  {
+    "title": "Tour and travels",
+    "description": "A front-end mockup for a modern e-commerce platform, focusing on a clean user interface and responsive design using Bootstrap.",
+    "images": [
+      "images/tourand travels.png",
+      "images/tour2.png",
+      "images/tour3.png",
+      "images/tour4.png",
+      "images/tour5.png",
+      "images/tour6.png",
+      "images/tour7.png"
+     
+    ]
+  },
+  {
+    "title": "WordPress Blog for Client",
+    "description": "Developed a custom WordPress theme for a local business blog, enabling them to easily manage and publish content.",
+    "images": [
+      "images/1686225519017.jpg",
+      "images/project1/1686225517946.jpg",
+      "images/project1/another-screenshot.png"
+    ]
+  }
+]
